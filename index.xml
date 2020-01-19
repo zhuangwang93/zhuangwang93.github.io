@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>https://zhuangwang93.github.io/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 13:11:57 +0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://zhuangwang93.github.io/post/test/</link>
+      <pubDate>Mon, 04 Mar 2019 13:11:57 +0300</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>μBPF, a performance diagnosis framework for data centers</title>
+      <link>https://zhuangwang93.github.io/project/ubpf/</link>
+      <pubDate>Fri, 22 Feb 2019 22:32:40 +0300</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/project/ubpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haiyun, a labeled networked system</title>
+      <link>https://zhuangwang93.github.io/project/haiyun/</link>
+      <pubDate>Tue, 22 Jan 2019 22:40:21 +0300</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/project/haiyun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panda, a flow scheduling in data centers</title>
+      <link>https://zhuangwang93.github.io/project/panda/</link>
+      <pubDate>Thu, 22 Feb 2018 22:44:00 +0300</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/project/panda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-host Rate Control with Centralized Approach</title>
+      <link>https://zhuangwang93.github.io/publication/cluster-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/publication/cluster-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive rate control over mobile data networks with heuristic rate compensations</title>
+      <link>https://zhuangwang93.github.io/publication/iwqos-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/publication/iwqos-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach for All-to-all Routing in All-optical Hypersquare Torus Network</title>
+      <link>https://zhuangwang93.github.io/publication/cf-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://zhuangwang93.github.io/publication/cf-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
