@@ -25,7 +25,8 @@ a:hover {
 }
 
 .confshort {
-    font-weight: 300;
+    color: #111;
+    font-weight: 700;
 }
 
 .conf {
@@ -79,7 +80,8 @@ a:hover {
 
 }
 
-/* .thisauthor {
+.thisauthor {
           color: #111;
           text-decoration: underline;
-    } */
+          font-weight: 350;
+    }

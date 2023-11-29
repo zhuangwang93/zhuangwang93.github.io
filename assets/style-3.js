@@ -14,7 +14,7 @@ const highlightcolor = "#111";
 // Body properties
 const bodyfontweight = 300;
 const bodyfontsize = "12pt";
-const backgroundcolor = "#FFFAF0";
+const backgroundcolor = "#FFFFFF";
 
 // Link properties
 const acolor = accentcolor;
@@ -85,7 +85,8 @@ $("body").css("font-size", bodyfontsize);
 $("body").css("background-color", backgroundcolor);
 
 $("a").css("color", acolor);
-$("a").css("text-decoration", adecoration);
+$("a").css("text-decoration", none);
+$("a").css("font-weight", 400);
 
 $(".menulink").css("color", menucolor);
 $(".menulink").css("font-size", menufontsize);
